@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+FormularioApp/node_modules/
+
+# Expo
+.expo/
+FormularioApp/.expo/
+dist/
+web-build/
+
+# OS and IDE
+.DS_Store
+.idea/
+.vscode/
+*.log
+.claude/
